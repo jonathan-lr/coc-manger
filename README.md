@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Stopped playing coc so this project is kinda dead
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
